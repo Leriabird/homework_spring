@@ -5,4 +5,4 @@ except(AssertionError):
 except(MemoryError):
     print("Caught MemoryError")
 except(RuntimeError):
-        print("Caught RuntimeError")
+    print("Caught RuntimeError")
